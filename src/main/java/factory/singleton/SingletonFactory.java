@@ -5,7 +5,7 @@ import java.lang.reflect.InvocationTargetException;
 
 /**
  * @Copyright (C), 2018, 上海金皿计算机科技有限公司
- * @ProjectName: Phantom
+ * @ProjectName: java-design-patterns
  * @FileName: SingletonFactory
  * @Author: 屈志刚
  * @Date: 2020/7/30 3:21 下午
